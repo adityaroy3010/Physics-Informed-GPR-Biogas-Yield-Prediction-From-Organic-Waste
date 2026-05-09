@@ -196,7 +196,7 @@ If you use this code or framework in your research, please cite:
   author  = {Roy, Aditya and Chakraborty, Aparijit and Bhattacharjee, Tathagata 
              and Hariharan, R and Rajakani, M},
   journal = {Springer},
-  year    = {2024},
+  year    = {2026},
   institution = {SRM Institute of Science and Technology}
 }
 ```
